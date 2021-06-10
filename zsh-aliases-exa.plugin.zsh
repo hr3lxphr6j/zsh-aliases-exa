@@ -9,6 +9,7 @@
 #
 
 # general use
+alias exa='exa --icons'
 alias ls='exa'                                                         # ls
 alias l='exa -lbF --git'                                               # list, size, type, git
 alias ll='exa -lbGF --git'                                             # long list
